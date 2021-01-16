@@ -10,3 +10,4 @@ The program is taking a table of sorted numbers until one million and search for
 ## Technologies
 Technologies and Frameworks used for this project:
 * ARMv8
+* VIM

@@ -1,7 +1,7 @@
 //*******************************************************************************************************
 // Program Name	: Project_BinarySearch
-// Programmers	: Gregory Gregoriades Stud. ID:917281
-//		  Giorgos Achilleos Stud. ID: 924152
+// Programmers	: Gregory Gregoriades Stud. ID:999999
+//		  Giorgos Achilleos Stud. ID: 999999
 // Date  Modif.	: 27 Nov 2017
 //*******************************************************************************************************
 // Comments: The program is taking a table of sorted numbers until one million and search   
